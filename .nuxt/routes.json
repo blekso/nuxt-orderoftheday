@@ -1,0 +1,16 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\nuxt-orderoftheday\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_167792df"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\nuxt-orderoftheday\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e7ae675e"
+  }
+]
