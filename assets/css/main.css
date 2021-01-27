@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Billabong';
+    src:url('/fonts/billabong-webfont.ttf') format('ttf'),
+        url('/fonts/billabong-webfont.woff2') format('woff2'),
+        url('/assets/fonts/billabong-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.billabong{
+    font-family: 'Billabong';
+}
