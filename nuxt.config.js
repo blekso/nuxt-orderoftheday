@@ -14,10 +14,10 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ["~assets/css/main.css"],
 
   tailwindcss: {
-    cssPath: "~/assets/styles/tailwind.css"
+    cssPath: "~assets/css/tailwind.css"
   },
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

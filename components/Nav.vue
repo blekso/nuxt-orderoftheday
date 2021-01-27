@@ -3,7 +3,7 @@
     <nuxt-link to="/">
       <div class="flex items-center justify-center">
         <img src="/png/logo.png" class="w-8 h-8 mr-4" />
-        <h3 class="font-billabong lg:text-4xl text-2xl">OrderOfTheDay</h3>
+        <h3 class="billabong lg:text-4xl text-2xl">OrderOfTheDay</h3>
       </div>
     </nuxt-link>
     <ul class="flex">

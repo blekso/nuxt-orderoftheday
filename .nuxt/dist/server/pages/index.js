@@ -1,7 +1,7 @@
 exports.ids = [2];
 exports.modules = {
 
-/***/ 27:
+/***/ 29:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -74,7 +74,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "c4a873d6"
+  "2dcfb5ec"
   
 )
 
@@ -82,19 +82,19 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 30:
+/***/ 32:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Hero.vue?vue&type=template&id=cf464f36&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center items-center md:h-75vh bg-blue-800 md:p-40 p-4"},[_vm._ssrNode("<span class=\"font-billabong text-6xl text-white\">"+_vm._ssrEscape(_vm._s(_vm.title))+"</span> <p class=\"text-white\">"+_vm._ssrEscape(_vm._s(_vm.description))+"</p>")])}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Hero.vue?vue&type=template&id=1d8820f7&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center items-center md:h-75vh h-third bg-blue-800 md:p-40 p-4"},[_vm._ssrNode("<span class=\"billabong text-6xl text-white\">"+_vm._ssrEscape(_vm._s(_vm.title))+"</span> <p class=\"text-white\">"+_vm._ssrEscape(_vm._s(_vm.description))+"</p>")])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Hero.vue?vue&type=template&id=cf464f36&
+// CONCATENATED MODULE: ./components/Hero.vue?vue&type=template&id=1d8820f7&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Hero.vue?vue&type=script&lang=js&
 //
@@ -141,7 +141,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "78284de3"
+  "091fa9ce"
   
 )
 
@@ -149,19 +149,19 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 31:
+/***/ 33:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Quote.vue?vue&type=template&id=3709a27a&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center lg:px-40 md:px-20 p-4"},[_vm._ssrNode("<div><span class=\"font-billabong lg:text-6xl text-3xl\">"+_vm._ssrEscape("\""+_vm._s(_vm.quote)+"\"")+"</span> <span>"+_vm._ssrEscape("- "+_vm._s(_vm.author))+"</span></div>")])}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Quote.vue?vue&type=template&id=1d6007e4&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center lg:px-40 md:px-20 px-4 py-12"},[_vm._ssrNode("<div><span class=\"billabong lg:text-6xl text-3xl\">"+_vm._ssrEscape("\""+_vm._s(_vm.quote)+"\"")+"</span> <span>"+_vm._ssrEscape("- "+_vm._s(_vm.author))+"</span></div>")])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Quote.vue?vue&type=template&id=3709a27a&
+// CONCATENATED MODULE: ./components/Quote.vue?vue&type=template&id=1d6007e4&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Quote.vue?vue&type=script&lang=js&
 //
@@ -208,7 +208,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "a3cff63a"
+  "3c0c2658"
   
 )
 
@@ -216,21 +216,27 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 32:
+/***/ 34:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Features.vue?vue&type=template&id=60d2412a&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"grid md:grid-cols-3 grid-cols-1 col-gap-6 lg:px-20 md:px-16 md:h-third my-8"},[_vm._ssrNode("<div class=\"flex flex-col justify-center items-center lg:px-12 p-4\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/server.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium text-2xl\">\n        Simplicity\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        Easy to use and a one-stop destination for all your daily To-do's\n      </p></div></div> <div class=\"flex flex-col justify-center items-center lg:px-12 p-4\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/speed.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium text-2xl\">\n        Performance\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        Compiled in Java which offers best performance for all Android devices\n      </p></div></div> <div class=\"flex flex-col justify-center items-center lg:px-12 p-4\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/cash.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium text-2xl\">\n        Availability\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        OrderOfTheDay is available for download for all of your android\n        devices for FREE\n      </p></div></div>")])}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Features.vue?vue&type=template&id=7e5e150d&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"grid md:grid-cols-3 grid-cols-1 col-gap-6 lg:px-20 md:px-16 md:h-third my-8"},[_vm._ssrNode("<div class=\"flex flex-col justify-center items-center lg:px-12 p-4 bg-blue-100 rounded-3xl shadow-lg hover:shadow-2xl m-4 md:m-0\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/server.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium lg:text-2xl text-xl\">\n        Simplicity\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        Easy to use and a one-stop destination for all your daily To-do's\n      </p></div></div> <div class=\"flex flex-col justify-center items-center lg:px-12 p-4 bg-blue-100 rounded-3xl shadow-lg hover:shadow-2xl m-4 md:m-0\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/speed.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium lg:text-2xl text-xl\">\n        Performance\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        Compiled in Java which offers best performance for all Android devices\n      </p></div></div> <div class=\"flex flex-col justify-center items-center lg:px-12 p-4 bg-blue-100 rounded-3xl shadow-lg hover:shadow-2xl m-4 md:m-0\"><div class=\"flex xs:justify-center justify-start w-full md:mb-4 mb-2\"><img src=\"/svg/cash.svg\" class=\"w-8 h-8 mr-4\"> <h4 class=\"font-medium lg:text-2xl text-xl\">\n        Availability\n      </h4></div> <div class=\"flex w-full justify-start\"><p>\n        OrderOfTheDay is available for download for all of your android\n        devices for FREE\n      </p></div></div>")])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Features.vue?vue&type=template&id=60d2412a&
+// CONCATENATED MODULE: ./components/Features.vue?vue&type=template&id=7e5e150d&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Features.vue?vue&type=script&lang=js&
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -302,7 +308,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "27980fb4"
+  "38f56691"
   
 )
 
@@ -310,24 +316,21 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 33:
+/***/ 35:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Download.vue?vue&type=template&id=003542bb&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center items-center h-third"},[_vm._ssrNode("<p class=\"text-2xl mb-4\">Click to download the App:</p> <a href=\"https://drive.google.com/file/d/1ISCAMu6IU33kB3CB2NLxWzp1PQ9lyvlh/view?usp=sharing\" target=\"_blank\"><button class=\"rounded-lg bg-gray-400 px-4 py-2 hover:underline\">\n      Download link\n    </button></a>")])}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Download.vue?vue&type=template&id=5640faf0&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex flex-col justify-center items-center h-third bg-blue-100"},[_vm._ssrNode("<p class=\"text-2xl mb-4\">Click to download the App:</p> <a href=\"https://ufile.io/83eiej1t\" target=\"_blank\"><button class=\"rounded-lg bg-gray-400 px-4 py-2 hover:underline\">\n      Download link\n    </button></a>")])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Download.vue?vue&type=template&id=003542bb&
+// CONCATENATED MODULE: ./components/Download.vue?vue&type=template&id=5640faf0&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Download.vue?vue&type=script&lang=js&
-//
-//
-//
 //
 //
 //
@@ -363,7 +366,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "359e821e"
+  "31f22d5c"
   
 )
 
@@ -371,7 +374,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 
 /***/ }),
 
-/***/ 35:
+/***/ 37:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -430,14 +433,14 @@ var component = Object(componentNormalizer["a" /* default */])(
   false,
   injectStyles,
   null,
-  "33221bfd"
+  "5f622568"
   
 )
 
 /* harmony default export */ var pages = __webpack_exports__["default"] = (component.exports);
 
 /* nuxt-component-imports */
-installComponents(component, {Hero: __webpack_require__(30).default,Quote: __webpack_require__(31).default,Features: __webpack_require__(32).default,TextImage: __webpack_require__(27).default,Download: __webpack_require__(33).default})
+installComponents(component, {Hero: __webpack_require__(32).default,Quote: __webpack_require__(33).default,Features: __webpack_require__(34).default,TextImage: __webpack_require__(29).default,Download: __webpack_require__(35).default})
 
 
 /***/ })

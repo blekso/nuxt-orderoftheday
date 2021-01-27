@@ -2,15 +2,15 @@
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\nuxt-orderoftheday\\\\pages\\\\contact.vue",
+    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\FERIT\\\\Web i Android\\\\zavrsno\\\\nuxt-orderoftheday\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_167792df"
+    "_name": "_038f0058"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\nuxt-orderoftheday\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\Mihael\\\\Desktop\\\\FERIT\\\\Web i Android\\\\zavrsno\\\\nuxt-orderoftheday\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_e7ae675e"
+    "_name": "_54ff440a"
   }
 ]

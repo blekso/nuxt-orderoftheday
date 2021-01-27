@@ -8,9 +8,6 @@ module.exports = {
         "2/3": "66vh",
         half: "50vh",
         third: "33vh"
-      },
-      fontFamily: {
-        billabong: ["billabong", "sans-serif"]
       }
     }
   }

@@ -1,8 +1,8 @@
 <template>
   <div
-    class="flex flex-col justify-center items-center md:h-75vh bg-blue-800 md:p-40 p-4"
+    class="flex flex-col justify-center items-center md:h-75vh h-third bg-blue-800 md:p-40 p-4"
   >
-    <span class="font-billabong text-6xl text-white">{{ title }}</span>
+    <span class="billabong text-6xl text-white">{{ title }}</span>
     <p class="text-white">{{ description }}</p>
   </div>
 </template>
